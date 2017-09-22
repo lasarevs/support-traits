@@ -1,14 +1,19 @@
 {
-    "name": "crasher/support-traits",
+    "name": "lasarevs/support-traits",
     "description": "Some useful traits",
     "version": "0.9",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "crasher",
+            "name": "lasarevs",
             "email": "lazarews@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-0" : {
+            "Lasarevs\\Support" : "src"
+        }
+    },
     "require": {}
 }

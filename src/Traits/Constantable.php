@@ -1,6 +1,6 @@
 <?php
 
-namespace Crasher\Support\Traits;
+namespace Lasarevs\Support\Traits;
 
 /**
  * Trait Constantable
