@@ -1,0 +1,14 @@
+{
+    "name": "crasher/support-traits",
+    "description": "Some useful traits",
+    "version": "0.9",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "crasher",
+            "email": "lazarews@gmail.com"
+        }
+    ],
+    "require": {}
+}
