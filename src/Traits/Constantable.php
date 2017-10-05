@@ -36,7 +36,7 @@ trait Constantable
         $constants = array_filter(
             $constants,
             function ($value, $key) use ($needle) {
-                return strpos($key, strtoupper($needle)) !== false;
+                return strpos(strtoupper($key), strtoupper($needle)) !== false;
             },
             $flag
         );
