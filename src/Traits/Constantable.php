@@ -5,7 +5,7 @@ namespace Lasarevs\Support\Traits;
 /**
  * Trait Constantable
  *
- * @package Crasher\Support\Traits
+ * @package Lasarevs\Support\Traits
  * @author  Sergey Lazarev <lazarews@gmail.com>
  */
 trait Constantable
