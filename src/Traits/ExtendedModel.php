@@ -14,7 +14,7 @@ use Carbon\Carbon;
  * Trait ExtendedModel
  *
  * @package App\Traits
- * @author  Sergey Lazarev <sergey.lazarev@attractgroup.com>
+ * @author  Sergey Lazarev <lazarews@gmail.com>
  */
 trait ExtendedModel
 {

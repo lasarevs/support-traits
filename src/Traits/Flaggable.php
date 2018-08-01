@@ -6,7 +6,7 @@ namespace Lasarevs\Support\Traits;
  * Trait Flaggable
  *
  * @package Lasarevs\Support\Traits
- * @author  Sergey Lazarev <sergey.lazarev@attractgroup.com>
+ * @author  Sergey Lazarev <lazarews@gmail.com>
  */
 trait Flaggable
 {
